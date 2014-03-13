@@ -1,0 +1,8 @@
+C:\Users\DeSilva\Documents\Visual Studio 2010\Projects\ShortcutVirusRemover\ShortcutVirusRemover\bin\Debug\ShortcutVirusRemover.exe
+C:\Users\DeSilva\Documents\Visual Studio 2010\Projects\ShortcutVirusRemover\ShortcutVirusRemover\bin\Debug\ShortcutVirusRemover.pdb
+C:\Users\DeSilva\Documents\Visual Studio 2010\Projects\ShortcutVirusRemover\ShortcutVirusRemover\obj\x86\Debug\ShortcutVirusRemover.Form1.resources
+C:\Users\DeSilva\Documents\Visual Studio 2010\Projects\ShortcutVirusRemover\ShortcutVirusRemover\obj\x86\Debug\ShortcutVirusRemover.Properties.Resources.resources
+C:\Users\DeSilva\Documents\Visual Studio 2010\Projects\ShortcutVirusRemover\ShortcutVirusRemover\obj\x86\Debug\ShortcutVirusRemover.csproj.GenerateResource.Cache
+C:\Users\DeSilva\Documents\Visual Studio 2010\Projects\ShortcutVirusRemover\ShortcutVirusRemover\obj\x86\Debug\ShortcutVirusRemover.exe
+C:\Users\DeSilva\Documents\Visual Studio 2010\Projects\ShortcutVirusRemover\ShortcutVirusRemover\obj\x86\Debug\ShortcutVirusRemover.pdb
+C:\Users\DeSilva\Documents\Visual Studio 2010\Projects\ShortcutVirusRemover\ShortcutVirusRemover\obj\x86\Debug\ShortcutVirusRemover.csprojResolveAssemblyReference.cache

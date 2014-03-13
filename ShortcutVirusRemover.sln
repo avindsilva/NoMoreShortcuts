@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortcutVirusRemover", "ShortcutVirusRemover\ShortcutVirusRemover.csproj", "{94858D35-4CF2-4908-82AB-0BDE4D6D6D66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94858D35-4CF2-4908-82AB-0BDE4D6D6D66}.Debug|x86.ActiveCfg = Debug|x86
+		{94858D35-4CF2-4908-82AB-0BDE4D6D6D66}.Debug|x86.Build.0 = Debug|x86
+		{94858D35-4CF2-4908-82AB-0BDE4D6D6D66}.Release|x86.ActiveCfg = Release|x86
+		{94858D35-4CF2-4908-82AB-0BDE4D6D6D66}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

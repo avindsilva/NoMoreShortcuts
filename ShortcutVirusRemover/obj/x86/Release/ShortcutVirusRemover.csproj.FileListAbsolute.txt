@@ -1,0 +1,7 @@
+C:\Users\DeSilva\Documents\Visual Studio 2010\Projects\ShortcutVirusRemover\ShortcutVirusRemover\bin\Release\ShortcutVirusRemover.exe
+C:\Users\DeSilva\Documents\Visual Studio 2010\Projects\ShortcutVirusRemover\ShortcutVirusRemover\bin\Release\ShortcutVirusRemover.pdb
+C:\Users\DeSilva\Documents\Visual Studio 2010\Projects\ShortcutVirusRemover\ShortcutVirusRemover\obj\x86\Release\ShortcutVirusRemover.Form1.resources
+C:\Users\DeSilva\Documents\Visual Studio 2010\Projects\ShortcutVirusRemover\ShortcutVirusRemover\obj\x86\Release\ShortcutVirusRemover.Properties.Resources.resources
+C:\Users\DeSilva\Documents\Visual Studio 2010\Projects\ShortcutVirusRemover\ShortcutVirusRemover\obj\x86\Release\ShortcutVirusRemover.csproj.GenerateResource.Cache
+C:\Users\DeSilva\Documents\Visual Studio 2010\Projects\ShortcutVirusRemover\ShortcutVirusRemover\obj\x86\Release\ShortcutVirusRemover.exe
+C:\Users\DeSilva\Documents\Visual Studio 2010\Projects\ShortcutVirusRemover\ShortcutVirusRemover\obj\x86\Release\ShortcutVirusRemover.pdb
