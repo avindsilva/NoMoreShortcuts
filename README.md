@@ -1,4 +1,5 @@
 No More Shortcuts
+=================
 Windows application to remove the shortcut virus which effect devices especially flash.
 
 Developers
@@ -11,5 +12,4 @@ An initiative of
 https://www.whatnotwhynot.com/
 
 Issued in public interest by
-Team BugAllergy
-github.com/teambugallergy
+Team BugAllergy github.com/teambugallergy
