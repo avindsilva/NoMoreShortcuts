@@ -4,11 +4,12 @@ Windows application to remove the shortcut virus which effect devices especially
 
 Developers
 ==========
-Avin D'Silva github.com/avindsilva
-Darshan Adiga github.com/DarshanAdiga
-Manel Ramesh Nayak github.com/ManelRameshNayak
+Avin D'Silva (github.com/avindsilva)
+Darshan Adiga (github.com/DarshanAdiga)
+Manel Ramesh Nayak (github.com/ManelRameshNayak)
 
 An initiative of 
+++++++++++++++++
 https://www.whatnotwhynot.com/
 
 Issued in public interest by
