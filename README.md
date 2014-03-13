@@ -9,7 +9,6 @@ Darshan Adiga (github.com/DarshanAdiga)
 Manel Ramesh Nayak (github.com/ManelRameshNayak)
 
 An initiative of 
-++++++++++++++++
 https://www.whatnotwhynot.com/
 
 Issued in public interest by
